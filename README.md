@@ -1,3 +1,3 @@
 # ahls-skriptid
 
-### Kõik skriptid ja README on leitavad "master" branchist
+### Kõik skriptid ja täpsem README on leitavad "master" branchist
