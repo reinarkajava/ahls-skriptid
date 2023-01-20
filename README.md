@@ -53,6 +53,7 @@ Selles repositooriumis on olemas järgmised skriptid:
 - php paigaldamine,
 - kasutajate loomine, mille parameetriks on nimi,
 - kasutajate loomine, mille parameetriteks on tekstidokumendid.
-
+- varundusfailide loomine, mille parameetriks on kaust.
+- varundusfailide + mysql andmebaaside varundamine, parameetriteks on kaust ja mysql andmebaasi nimi
 Skriptid vajavad root-kasutajat või ``` "sudo" ``` käsu kasutamist. Skript käivitatakse käsuga
 ``` "sudo ./skriptinimi.sh" ("sudo" ei pea ees olema kui kasutatakse root-kontot)```
